@@ -5,6 +5,6 @@ Requisites:  yad
 
   pacman -S yad
      
-     or
+  or
   
   apt-get install yad    
