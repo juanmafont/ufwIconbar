@@ -1,4 +1,4 @@
-# ufwIconbar
+# ufwIconbar  (Add an icon with UFW status to the panel)
 Show an icon into panel when UFW (Uncomplicated FireWall) is active/desactive.
 Tested with XFCE4 Desktop environment (Manjaro and Xubuntu)
     
