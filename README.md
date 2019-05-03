@@ -12,3 +12,4 @@ Requisites:  yad
   apt-get install yad    
 
 you can see more info here: 
+https://forum.manjaro.org/t/how-to-add-an-ufw-status-icon-to-the-panel/
