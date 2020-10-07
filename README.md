@@ -14,5 +14,5 @@ Requisites:  yad
 
 then copy script **gufw_icon.sh** to some directory and add to application autostart menu of your linux distribution.
 
-More info here: 
-https://forum.manjaro.org/t/how-to-add-an-ufw-status-icon-to-the-panel/
+More info here:
+https://archived.forum.manjaro.org/t/how-to-add-an-ufw-status-icon-to-the-panel/38559
