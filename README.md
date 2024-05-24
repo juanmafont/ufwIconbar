@@ -4,13 +4,13 @@ Tested with XFCE4 and OpenBox Desktop environment (Manjaro XFCE, Xubuntu and Mab
     
 <img align="right" width="50%" src="ufwicon_screenshot.png">
 
-Requisites:  yad
+Requisites:  yad, ufw and gufw
 
-  pacman -S yad
+  pacman -S yad ufw gufw
      
   or
   
-  apt-get install yad    
+  apt-get install yad ufw gufw   
 
 then copy script **gufw_icon.sh** to some directory and add to application autostart menu of your linux distribution.
 
